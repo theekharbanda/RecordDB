@@ -153,27 +153,6 @@ Command Reference
 -   Format: `PURGE_AND_STOP`
 -   Returns: "PURGED, Adios!"
 
-Architecture
-------------
-
-### Core Components
-
-1.  **Document Model**
-    -   Implements `Serializable`
-    -   Thread-safe internal structure
-    -   Key-value pair storage
-2.  **Database Operations**
-    -   Asynchronous operation handling
-    -   Concurrent access management
-    -   ACID compliance
-3.  **Command Executor**
-    -   Command parsing and validation
-    -   Error handling
-    -   Result formatting
-4.  **Storage Manager**
-    -   File-based persistence
-    -   Serialization/Deserialization
-    -   Data integrity
 
 ### Implementation Details
 
