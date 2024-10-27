@@ -245,6 +245,3 @@ Acknowledgments
 -   Inspired by MongoDB's document storage model
 -   Built using modern Java concurrency features
 -   Implements industry-standard ACID properties
-
-
-### For more information, please contact <adityaraj.pilot@hotmail.com>
