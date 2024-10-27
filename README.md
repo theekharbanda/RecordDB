@@ -15,9 +15,7 @@ Table of Contents
 -   [Getting Started](#getting-started)
 -   [Usage Guide](#usage-guide)
 -   [Command Reference](#command-reference)
--   [Architecture](#architecture)
 -   [Implementation Details](#implementation-details)
--   [Contributing](#contributing)
 
 Features
 --------
